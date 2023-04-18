@@ -14,11 +14,11 @@ JsonPowerDB is a powerful NoSQL database that allow ready to use API application
 
 ##creenshots:
 
-![Dashboard]()
+![Dashboard](https://github.com/prajaktacad/demoLogin2Xplore/JSONPowerDB Assest/Dashboard.png)
 
-![Index Page]()
+![JSDB Table](https://github.com/prajaktacad/demoLogin2Xplore/JSONPowerDB Assest/Dashboard.png))
 
-![Visualize]()
+
 
 
 
