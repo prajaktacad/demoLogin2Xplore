@@ -12,9 +12,11 @@ JsonPowerDB is a powerful NoSQL database that allow ready to use API application
 - Cost-effective: JsonPowerDB is a cost-effective solution as it is open-source and requires minimal hardware and software resources.
 - Scalability: JsonPowerDB is highly scalable, and users can easily add new nodes to the database as their data requirements grow.
 
-##creenshots:
+## Screenshots:
 
 ![Dashboard](https://github.com/prajaktacad/demoLogin2Xplore/blob/main/JSONPowerDBAssest/Dashboard.png)
+
+
 
 ![JSDB Table](https://github.com/prajaktacad/demoLogin2Xplore/blob/main/JSONPowerDBAssest/JSONDB%20Table.png)
 
